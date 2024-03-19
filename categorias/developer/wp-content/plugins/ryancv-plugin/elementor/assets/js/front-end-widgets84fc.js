@@ -5,11 +5,11 @@
 	$(window).on('elementor/frontend/init', function () {
 
 		// Widgets
-		elementorFrontend.hooks.addAction( 'frontend/element_ready/ryancv-testimonials.default', function() {
+		elementorFrontend.hooks.addAction( 'frontend/element_ready/ ch-testimonials.default', function() {
 
 		} );
 
-		elementorFrontend.hooks.addAction( 'frontend/element_ready/ryancv-skills.default', function() {
+		elementorFrontend.hooks.addAction( 'frontend/element_ready/ ch-skills.default', function() {
 			/*
 				Dotted Skills Line
 			*/
