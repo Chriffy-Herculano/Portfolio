@@ -1,6 +1,6 @@
 HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Feb 2024 16:33:57 at https://categorias/developer/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://categorias/developer/
 categoriascategorias
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s   %s -->" -%l "pt_BR, en, *" https:// ch.bslthemes.com/developer/ -O1 "C:\Users\Chriffy\Desktop\desing_novo\Portifolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https:// ch.bslthemes.com/developer/ )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F " " -%F "<!-- Mirrored from %s%s   %s -->" -%l "pt_BR, en, *" https:// ch.bslthemes.com/developer/ -O1 "C:\Users\Chriffy\Desktop\desing_novo\Portifolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https:// ch.bslthemes.com/developer/ )
 
 
 
