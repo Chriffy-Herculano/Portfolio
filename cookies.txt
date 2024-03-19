@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+categorias	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+categorias	TRUE	/	FALSE	1999999999	wp_woocommerce_session_87c138980b927ee70362decbf184179e	t_5194d3e1aaf71e57bcefa26f408499%7C%7C1709062689%7C%7C1709059089%7C%7C46f51557ed07bb95f90ac47e12d642b5
+categorias	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	cc2ef460c0afb1c7a7c03ab2ae8b4697
+
